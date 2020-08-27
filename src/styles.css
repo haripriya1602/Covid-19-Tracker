@@ -1,0 +1,10 @@
+/* You can add global styles to this file, and also import other style files */
+
+body{
+    height: 2000;
+    padding: 10px;
+    font-size: larger;
+    background: repeating-linear-gradient(#33ccff 0%,#ff9999 100%);
+    color:whitesmoke;
+    background-attachment:fixed;
+}
